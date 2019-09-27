@@ -1,5 +1,5 @@
-Cython              
-base64              
+Cython
+base64
 ipykernel_launcher  
 sched
 IPython             
