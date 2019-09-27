@@ -10,4 +10,4 @@ For Debian/Ubuntu/LinuxMint based systems -
   sudo apt install python3  
   
 For ArchLinux/Manjaro based systems -  
-  sudo pacman -S python3  
+  sudo pacman -S python3
