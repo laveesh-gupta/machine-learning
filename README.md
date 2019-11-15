@@ -1,7 +1,7 @@
 # machine-learning  
 
 ## Topics  
-Linear Regression
+Linear Regression  
 Logistic Regression
 
 ## Installing and setting up Python 3
