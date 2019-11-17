@@ -2,7 +2,9 @@
 
 ## Topics  
 Linear Regression  
-Logistic Regression
+Logistic Regression  
+Clustering
+K-means clustering
 
 ## Installing and setting up Python 3
 
