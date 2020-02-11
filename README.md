@@ -3,8 +3,9 @@
 ## Topics  
 Linear Regression  
 Logistic Regression  
-Clustering
-K-means clustering
+K-means clustering  
+k-Nearest Neighbours
+Artificial Neural Networks  
 
 ## Installing and setting up Python 3
 
